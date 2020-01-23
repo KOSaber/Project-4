@@ -1,5 +1,5 @@
-# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
-# ![](https://misk.org.sa/miskacademy/wp-content/uploads/sites/5/2019/04/ma-logo-1.png) 
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
+![Misk Logo](https://i.ibb.co/KmXhJbm/Webp-net-resizeimage-1.png)
 
 # Project #4: Full Stack Application
 
@@ -61,7 +61,7 @@ By the time you submit this project, you will have covered new ground in, and re
     - Short and clear functions that _do one thing_
     - Efficient code- if you have your MVP, refactor
     - DRY (Don't Repeat Yourself) code
-- Be deployed on [Heroku](https://github.com/saadkhan29/Express-Deployment-with-Heroku) or anyother hosting service provider (if you want to).
+- Be deployed on [Heroku](https://github.com/sei-jed-10/-Express-Deployment-with-Heroku) or anyother hosting service provider (if you want to).
 - **Create a `README.md` file that explains your app** (Dont forget to include project wireframes and user stories in readme file).
 
 ### Necessary Deliverables
